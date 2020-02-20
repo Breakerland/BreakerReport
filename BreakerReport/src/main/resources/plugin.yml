@@ -1,0 +1,11 @@
+name: BreakerReport
+main: fr.breakerland.report.Report
+api-version: 1.15
+version: 1.0
+description: Report a glitch
+author: AzodFR
+
+commands:
+  report:
+    description: Report a glitch
+    aliases: [helpop]
